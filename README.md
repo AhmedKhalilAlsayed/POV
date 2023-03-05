@@ -7,7 +7,7 @@ This project doesn't complete yet I will finish it as soon as possible.
 # Introduction
 POV clock is the project's name, the theory of my project is [Persistance Of Vision](https://en.wikipedia.org/wiki/Persistence_of_vision) and due to very speed rotation, we can show any shape after full speed. 
 
-There is [an example on YouTube](https://www.youtube.com/watch?v=-6JnAxTXApw). And I hope to make one better than it.
+There is [an example on YouTube](https://www.youtube.com/watch?v=-6JnAxTXApw). And I hope to build a better one.
 
 # My Progress
 1. DIO driver
