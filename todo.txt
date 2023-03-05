@@ -1,0 +1,24 @@
+//old
+#POV_voidDisplayChar(hourHandChar);
+
+//3 9 22
+#structure of code {update second and displayChars in while loop}
+#rev DIO
+#rev EXTI
+#rev TMR {start page 109}
+#need 3 func from TMR 
+	{#INT every unit time 
+	 #calulate 1 sec 
+	 #calulate the time of one cycle}
+#test code
+#var(Glob_u8isDisplay) is very useful
+#test col0 in char
+
+// 12 9 22
+#test width in char
+#new modulus and big update and imporive display func
+#documentation
+#search more for PCB (the problem was in the GND track)
+IR trans/receive code
+motor
+IR led as a remote control to control the time --VS-- RTC
