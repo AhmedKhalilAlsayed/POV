@@ -15,9 +15,7 @@ There is [an example on YouTube](https://www.youtube.com/watch?v=-6JnAxTXApw). A
 3. TMR driver to control the timer
 4. POV driver to control the LEDs and show a flexible shape
 5. Build an PCB to be more efficient 
-
-[Schematic](https://github.com/AhmedKhalilAlsayed/POV/blob/main/schematic%20.png)
-
+[Schematic](https://github.com/AhmedKhalilAlsayed/POV/blob/main/schematic%20.png) ,
 [PCB design](https://github.com/AhmedKhalilAlsayed/POV/blob/main/PCB.png)
 
 6. TODO file likes as a log file for working easily 
